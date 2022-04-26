@@ -4,7 +4,7 @@ body {
     font-family: "Trirong", sans-serif;
     max-width: 50%;
     margin: auto;
-    color: rgb(106, 104, 104);
+    color: rgb(28, 26, 26);
 }
 
 .header{
@@ -26,11 +26,11 @@ body {
 }
 
 .name{
-    color: gray;
+    color: rgb(0, 0, 0);
 }
 
 .coral{
-    color: rgb(239, 98, 47);
+    color: rgb(255, 78, 14);
 }
 
 .qualification{
@@ -38,11 +38,11 @@ body {
 }
 
 .hrline{
-    border: 1px solid coral;
+    border: 2px solid rgb(255, 88, 27);
 }
 
 .table-heading{
     min-width: 300px;
     font-size: 17px;
-    color: coral;
+    color: rgb(255, 94, 0);
 }
